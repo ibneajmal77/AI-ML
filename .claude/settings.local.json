@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for d:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/ibnea/source/AI/**)",
+      "Bash(done)",
+      "Bash(cd:*)",
+      "Bash(mv NumPy.ipynb Stage-0-Prerequisites/0.2-NumPy.ipynb)",
+      "Bash(mv Pandas.ipynb Stage-0-Prerequisites/0.3-Pandas.ipynb)",
+      "Bash(mv DataVisualization.ipynb Stage-0-Prerequisites/0.4-Data-Visualization.ipynb)",
+      "Bash(mv EDA.ipynb Stage-0-Prerequisites/0.5-Exploratory-Data-Analysis.ipynb)",
+      "Bash(mv Statistics.ipynb Stage-0-Prerequisites/0.6-Statistics-for-ML.ipynb)",
+      "Bash(pip show:*)",
+      "Bash(python -c \"import reportlab; print\\(''''reportlab ok''''\\)\")",
+      "Bash(python -c \"import fpdf; print\\(''''fpdf ok''''\\)\")",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import fpdf; print\\(''fpdf2 installed ok''\\)\")"
+    ]
+  }
+}
