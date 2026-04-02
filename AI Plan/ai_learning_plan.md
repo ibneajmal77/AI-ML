@@ -1,11 +1,11 @@
 ---
-name: Muhammad Awais – Complete AI Architect Learning Plan
+name: Complete AI Architect Learning Plan
 description: Full curriculum for AI Architect from scratch. Covers every layer: math, ML, deep learning, LLMs, GenAI, RAG, agents, MLOps, safety, and architecture. Read this at the start of every session.
 type: project
 ---
 
 # AI Architect — Complete Learning Plan
-**Learner:** Muhammad Awais | Dubai, UAE | ibneajmal77@gmail.com
+**Location:** Dubai, UAE
 **Goal:** AI/ML Engineer → Senior AI Engineer → **AI Architect / Principal AI Architect**
 **Method:** Learns directly from Claude. No videos. No lectures. Claude teaches interactively.
 **Style:** Explain concept → Show code → Ask question → Confirm understanding → Move forward
@@ -15,11 +15,11 @@ type: project
 ## HOW TO USE THIS FILE (Instructions for every Claude session)
 
 1. Read this entire file at the start of each session
-2. Find the **CURRENT STATUS** section — it tells you exactly where Awais is
+2. Find the **CURRENT STATUS** section — it tells you exactly where the user is
 3. Continue from the **NEXT LESSON** marked below
 4. Teach interactively: explain → example → question → confirm → next
 5. After each lesson is completed, mentally note what was covered
-6. When Awais says "save progress" or session ends, update this file:
+6. When the user says "save progress" or session ends, update this file:
    - Mark completed lessons with ✅
    - Update CURRENT STATUS section
    - Update NEXT LESSON
@@ -29,11 +29,12 @@ type: project
 
 ## CURRENT STATUS
 
-**Current Stage:** Stage 0 — Not Started
-**Current Topic:** Not started — Begin with Stage 0, Lesson 0.1
-**Last Session:** No sessions yet
-**Next Lesson:** Stage 0 → Lesson 0.1: Dev environment setup for AI
-**Confidence Level:** N/A
+**Current Stage:** Stage 1 — ML Foundations (In Progress)
+**Current Topic:** 1.2 — Types of ML (just completed)
+**Last Session:** 2026-04-02
+**Next Lesson:** Stage 1 → Lesson 1.3: How a model learns (loss, gradients, optimization)
+**Confidence Level:** N/A yet — confirm with the user
+**Teaching Style Note:** Lessons enhanced with production experience perspective — include production gotchas, real deployment patterns, drift/monitoring, and decision frameworks in every lesson.
 
 ---
 

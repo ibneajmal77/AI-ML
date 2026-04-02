@@ -1,14 +1,10 @@
 ---
-name: Muhammad Awais – User Profile
+name: User Profile
 description: Senior Full Stack Engineer in Dubai with 8 years experience, transitioning to AI/ML Engineering
 type: user
 ---
 
-**Name:** Muhammad Awais
-**Email:** ibneajmal77@gmail.com
-**Phone:** +971526059643
 **Location:** Dubai, UAE
-**LinkedIn:** linkedin.com/in/muhammad-awais-ajmal
 
 **Current Role:** Senior Full Stack Engineer at 7X/EPG (Aug 2024–Present), Dubai
 **Total Experience:** 8+ years in software engineering
