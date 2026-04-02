@@ -30,9 +30,9 @@ type: project
 ## CURRENT STATUS
 
 **Current Stage:** Stage 1 — ML Foundations (In Progress)
-**Current Topic:** 1.2 — Types of ML (just completed)
+**Current Topic:** 1.3 — How a Model Learns (just completed)
 **Last Session:** 2026-04-02
-**Next Lesson:** Stage 1 → Lesson 1.3: How a model learns (loss, gradients, optimization)
+**Next Lesson:** Stage 1 → Lesson 1.4: Linear Regression — your first ML model built from scratch
 **Confidence Level:** N/A yet — confirm with the user
 **Teaching Style Note:** Lessons enhanced with production experience perspective — include production gotchas, real deployment patterns, drift/monitoring, and decision frameworks in every lesson.
 
